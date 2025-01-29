@@ -1,0 +1,35 @@
+h1
+{
+    text-align: center;
+    text-decoration: underline;
+    color:#2E0702;
+}
+
+table {
+    border-spacing: 0; 
+    border-collapse: collapse; 
+    margin: auto;
+    height: 50px;
+
+}
+
+td {
+    height: 3em; 
+    width: 3em; 
+}
+
+th {
+    background-color: #2E0702;
+    padding: 1rem;
+    color: white; 
+    border: none;
+}
+
+.dark {
+    background-color: #2E0702; 
+  
+}
+
+.light {
+    background-color: #fff;
+}
